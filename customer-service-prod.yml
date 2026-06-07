@@ -4,7 +4,7 @@ global:
 server:
   port: 8083
 
-message: Hello from prod!!!
+message: Hello from Customer prod!!!
 
 spring:
   application:
