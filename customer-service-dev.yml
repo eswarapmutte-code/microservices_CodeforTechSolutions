@@ -1,1 +1,5 @@
+global:
+ message: welcome to Customer Service dev Environment
 
+server:
+  port: 
