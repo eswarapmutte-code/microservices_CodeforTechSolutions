@@ -2,4 +2,6 @@ global:
  message: welcome to Customer Service dev Environment
 
 server:
-  port: 
+  port: 8082
+
+
