@@ -1,8 +1,10 @@
 global:
  message: welcome to Global Microservices Environment
+
 logging:
  level:
   root: INFO
+
 management:
  endpoints:
   web:
