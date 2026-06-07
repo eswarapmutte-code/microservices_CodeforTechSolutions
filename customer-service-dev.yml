@@ -4,4 +4,8 @@ global:
 server:
   port: 8082
 
+message: Hello from dev
+
+  
+
 
