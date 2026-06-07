@@ -6,7 +6,7 @@ global:
     config:
       server:
         git:
-          uri: <YOUR_GIT_REPOSITORY_URL>   # e.g., https://github.com/your-username/config-repo.git
+          uri: https://github.com/eswarapmutte-code/microservices_CodeforTechSolutions.git   # e.g., https://github.com/your-username/config-repo.git
           default-label: main               # or 'master', depending on your repo's default branch
           search-paths: '{application}'     # Tells the server to look for configs in subdirectories named after the application
 
