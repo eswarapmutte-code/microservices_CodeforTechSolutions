@@ -1,20 +1,20 @@
 global:
- message: welcome to Order Service dev Environment
+  message: welcome to Order Service dev Environment
 
 server:
-  port: 8084
+   port: 8084
 
 message: Hello from Order dev!!!
 
 spring:
-  application:
-    name: order-service
- datasource:
-   url: jdbc:mysql://localhost:3306/order_dev
-   driverClassName: com.mysql.cj.jdbc.Driver
-   username: root
-   password: root
+   application:
+      name: order-service
+   datasource:
+      url: jdbc:mysql://localhost:3306/order_dev
+      driverClassName: com.mysql.cj.jdbc.Driver
+      username: root
+      password: root
   jpa:
    hibernate:
     ddl-auto: update
-    show-sql: true
+   show-sql: true
